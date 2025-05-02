@@ -1,0 +1,48 @@
+@model IEnumerable<SashoApp.Models.Cars.Car>
+
+@{
+    ViewData["Title"] = "Cars";
+}
+
+<h1>Cars Catalog</h1>
+
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        <a class="btn btn-primary" asp-controller="Car" asp-action="Create">Create New Car</a>
+        <a class="btn btn-secondary" asp-controller="Roles" asp-action="Index">Manage Roles</a>
+    </p>
+}
+
+<div class="row">
+    @foreach (var car in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                @if (car.ImageData != null && car.ImageData.Length > 0)
+                {
+                    var base64 = Convert.ToBase64String(car.ImageData);
+                    var imgSrc = String.Format("data:image/jpg;base64,{0}", base64);
+                    <img src="@imgSrc" class="card-img-top" alt="Car Image" style="height: 200px; object-fit: cover;" />
+                }
+                else
+                {
+                    <img src="~/images/no-image.png" class="card-img-top" alt="No Image" style="height: 200px; object-fit: cover;" />
+                }
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">@car.Make @car.Model (@car.Year)</h5>
+                    <p class="card-text text-muted mb-2">@car.Color | @car.FuelType | @car.Transmission</p>
+                    <p class="card-text font-weight-bold mb-4">@car.Price.ToString("C")</p>
+                    <div class="mt-auto">
+                        <a asp-action="Details" asp-route-id="@car.Id" class="btn btn-sm btn-info mr-1">Details</a>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <a asp-action="Edit" asp-route-id="@car.Id" class="btn btn-sm btn-warning mr-1">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@car.Id" class="btn btn-sm btn-danger">Delete</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,88 @@
+@model SashoApp.Models.Cars.EditCarViewModel
+
+@{
+    ViewData["Title"] = "Edit Car";
+}
+
+<h1>Edit Car</h1>
+
+<div class="card shadow-sm p-4 mb-4">
+    <form asp-action="Edit" method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label asp-for="Make"></label>
+                <input asp-for="Make" class="form-control" />
+                <span asp-validation-for="Make" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for="Model"></label>
+                <input asp-for="Model" class="form-control" />
+                <span asp-validation-for="Model" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-4">
+                <label asp-for="Year"></label>
+                <input asp-for="Year" class="form-control" />
+                <span asp-validation-for="Year" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="Color"></label>
+                <input asp-for="Color" class="form-control" />
+                <span asp-validation-for="Color" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="FuelType"></label>
+                <input asp-for="FuelType" class="form-control" />
+                <span asp-validation-for="FuelType" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label asp-for="Transmission"></label>
+                <input asp-for="Transmission" class="form-control" />
+                <span asp-validation-for="Transmission" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for="Price"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Description"></label>
+            <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label asp-for="EngineType"></label>
+                <input asp-for="EngineType" class="form-control" />
+                <span asp-validation-for="EngineType" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-3">
+                <label asp-for="NumberOfDoors"></label>
+                <input asp-for="NumberOfDoors" class="form-control" />
+                <span asp-validation-for="NumberOfDoors" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-3">
+                <label asp-for="HorsePower"></label>
+                <input asp-for="HorsePower" class="form-control" />
+                <span asp-validation-for="HorsePower" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label>Car Image</label>
+            <input type="file" name="imageFile" class="form-control-file" />
+            @if (Model.ImageFile != null && Model.ImageFile.Length > 0)
+            {
+                var base64 = Convert.ToBase64String(Model.ImageFile);
+                var imgSrc = String.Format("data:image/jpg;base64,{0}", base64);
+                <img src="@imgSrc" alt="Car Image" class="img-thumbnail mt-2" style="max-width: 300px; max-height: 200px;" />
+            }
+        </div>
+        <button type="submit" class="btn btn-primary">Save</button>
+        <a asp-action="Index" class="btn btn-secondary ml-2">Cancel</a>
+    </form>
+</div>

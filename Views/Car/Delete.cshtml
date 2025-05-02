@@ -1,0 +1,60 @@
+@model SashoApp.Models.Cars.Car
+
+@{
+    ViewData["Title"] = "Delete Car";
+}
+
+<h1>Delete Car</h1>
+
+<h3>Are you sure you want to delete this car?</h3>
+
+<div>
+    <h4>@Model.Make @Model.Model (@Model.Year)</h4>
+    <dl class="row">
+        <dt class="col-sm-2">Make</dt>
+        <dd class="col-sm-10">@Model.Make</dd>
+
+        <dt class="col-sm-2">Model</dt>
+        <dd class="col-sm-10">@Model.Model</dd>
+
+        <dt class="col-sm-2">Year</dt>
+        <dd class="col-sm-10">@Model.Year</dd>
+
+        <dt class="col-sm-2">Color</dt>
+        <dd class="col-sm-10">@Model.Color</dd>
+
+        <dt class="col-sm-2">Fuel Type</dt>
+        <dd class="col-sm-10">@Model.FuelType</dd>
+
+        <dt class="col-sm-2">Transmission</dt>
+        <dd class="col-sm-10">@Model.Transmission</dd>
+
+        <dt class="col-sm-2">Price</dt>
+        <dd class="col-sm-10">@Model.Price.ToString("C")</dd>
+
+        <dt class="col-sm-2">Description</dt>
+        <dd class="col-sm-10">@Model.Description</dd>
+
+        <dt class="col-sm-2">Engine Type</dt>
+        <dd class="col-sm-10">@Model.EngineType</dd>
+
+        <dt class="col-sm-2">Number of Doors</dt>
+        <dd class="col-sm-10">@Model.NumberOfDoors</dd>
+
+        <dt class="col-sm-2">Horse Power</dt>
+        <dd class="col-sm-10">@Model.HorsePower</dd>
+    </dl>
+
+    @if (Model.ImageData != null && Model.ImageData.Length > 0)
+    {
+        var base64 = Convert.ToBase64String(Model.ImageData);
+        var imgSrc = String.Format("data:image/jpg;base64,{0}", base64);
+        <img src="@imgSrc" alt="Car Image" style="max-width: 500px; max-height: 400px;" />
+    }
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

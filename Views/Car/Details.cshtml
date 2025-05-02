@@ -1,0 +1,68 @@
+@model SashoApp.Models.Cars.Car
+
+@{
+    ViewData["Title"] = "Car Details";
+}
+
+<h1>Car Details</h1>
+
+<div class="card mb-4 shadow-sm">
+    <div class="row no-gutters">
+        <div class="col-md-5">
+            @if (Model.ImageData != null && Model.ImageData.Length > 0)
+            {
+                var base64 = Convert.ToBase64String(Model.ImageData);
+                var imgSrc = String.Format("data:image/jpg;base64,{0}", base64);
+                <img src="@imgSrc" alt="Car Image" class="card-img" style="object-fit: cover; height: 100%;" />
+            }
+            else
+            {
+                <img src="~/images/no-image.png" alt="No Image" class="card-img" style="object-fit: cover; height: 100%;" />
+            }
+        </div>
+        <div class="col-md-7">
+            <div class="card-body">
+                <h3 class="card-title">@Model.Make @Model.Model (@Model.Year)</h3>
+                <dl class="row">
+                    <dt class="col-sm-4">Make</dt>
+                    <dd class="col-sm-8">@Model.Make</dd>
+
+                    <dt class="col-sm-4">Model</dt>
+                    <dd class="col-sm-8">@Model.Model</dd>
+
+                    <dt class="col-sm-4">Year</dt>
+                    <dd class="col-sm-8">@Model.Year</dd>
+
+                    <dt class="col-sm-4">Color</dt>
+                    <dd class="col-sm-8">@Model.Color</dd>
+
+                    <dt class="col-sm-4">Fuel Type</dt>
+                    <dd class="col-sm-8">@Model.FuelType</dd>
+
+                    <dt class="col-sm-4">Transmission</dt>
+                    <dd class="col-sm-8">@Model.Transmission</dd>
+
+                    <dt class="col-sm-4">Price</dt>
+                    <dd class="col-sm-8">@Model.Price.ToString("C")</dd>
+
+                    <dt class="col-sm-4">Description</dt>
+                    <dd class="col-sm-8">@Model.Description</dd>
+
+                    <dt class="col-sm-4">Engine Type</dt>
+                    <dd class="col-sm-8">@Model.EngineType</dd>
+
+                    <dt class="col-sm-4">Number of Doors</dt>
+                    <dd class="col-sm-8">@Model.NumberOfDoors</dd>
+
+                    <dt class="col-sm-4">Horse Power</dt>
+                    <dd class="col-sm-8">@Model.HorsePower</dd>
+                </dl>
+                 @if (User.IsInRole("Admin"))
+                 {
+                 <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary mr-2">Edit</a>
+                 }
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+</div>
