@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SashoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+726282e7580e33b53934011fe983ddb969ae5e31")]
 [assembly: System.Reflection.AssemblyProductAttribute("SashoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SashoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

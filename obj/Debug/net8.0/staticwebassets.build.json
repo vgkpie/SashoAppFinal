@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SfaZ70RCIHJuVflfNnxtEISs7AVjSjiGJpFqZfb6BEY=",
+  "Hash": "/7R22Cli+UZEmn/rOubvlwQ96GQ0U3WScsMdgpROZ30=",
   "Source": "SashoApp",
   "BasePath": "_content/SashoApp",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "SashoApp/wwwroot",
       "Source": "SashoApp",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "/Users/boqnaleksandrow/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.0/staticwebassets/V5/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/obj/Debug/net8.0/scopedcss/bundle/SashoApp.styles.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/obj/Debug/net8.0/scopedcss/bundle/SashoApp.styles.css",
       "SourceId": "SashoApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "SashoApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "Q5CmMVpWE+csr+bmLZXFC5vdMYYSBQWPf14wdXK8KP8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/obj/Debug/net8.0/scopedcss/bundle/SashoApp.styles.css"
+      "OriginalItemSpec": "/Users/boqnaleksandrow/Diplomen/SashoApp/obj/Debug/net8.0/scopedcss/bundle/SashoApp.styles.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/obj/Debug/net8.0/scopedcss/projectbundle/SashoApp.bundle.scp.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/obj/Debug/net8.0/scopedcss/projectbundle/SashoApp.bundle.scp.css",
       "SourceId": "SashoApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "SashoApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "Q5CmMVpWE+csr+bmLZXFC5vdMYYSBQWPf14wdXK8KP8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/obj/Debug/net8.0/scopedcss/projectbundle/SashoApp.bundle.scp.css"
+      "OriginalItemSpec": "/Users/boqnaleksandrow/Diplomen/SashoApp/obj/Debug/net8.0/scopedcss/projectbundle/SashoApp.bundle.scp.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/css/site.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/css/site.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/favicon.ico",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/favicon.ico",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/js/site.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/js/site.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2117,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2138,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2180,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2201,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2243,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2264,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2285,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2306,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2327,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2348,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2369,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2390,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2432,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2453,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2474,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2495,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2537,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2558,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "SashoApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/",
+      "ContentRoot": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/",
       "BasePath": "_content/SashoApp",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2582,7 +2582,7 @@
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/css/site.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2627,7 +2627,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/css/site.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2664,7 +2664,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/favicon.ico",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2709,7 +2709,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/favicon.ico",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4966,7 +4966,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/js/site.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5003,7 +5003,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/js/site.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5048,7 +5048,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5093,7 +5093,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5130,7 +5130,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5167,7 +5167,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5212,7 +5212,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5249,7 +5249,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5294,7 +5294,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5331,7 +5331,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5376,7 +5376,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5413,7 +5413,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5458,7 +5458,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5495,7 +5495,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5532,7 +5532,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5569,7 +5569,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5614,7 +5614,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5659,7 +5659,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5704,7 +5704,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5749,7 +5749,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5786,7 +5786,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5831,7 +5831,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5868,7 +5868,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5905,7 +5905,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5942,7 +5942,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5987,7 +5987,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6032,7 +6032,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6077,7 +6077,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6114,7 +6114,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6159,7 +6159,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6196,7 +6196,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6233,7 +6233,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6270,7 +6270,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6315,7 +6315,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6360,7 +6360,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6397,7 +6397,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6442,7 +6442,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6479,7 +6479,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6524,7 +6524,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6561,7 +6561,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6598,7 +6598,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6643,7 +6643,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6688,7 +6688,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6725,7 +6725,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6770,7 +6770,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6807,7 +6807,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6844,7 +6844,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6889,7 +6889,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6926,7 +6926,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6971,7 +6971,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7016,7 +7016,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7053,7 +7053,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7098,7 +7098,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7135,7 +7135,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7180,7 +7180,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7217,7 +7217,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7262,7 +7262,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7299,7 +7299,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7344,7 +7344,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7381,7 +7381,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7426,7 +7426,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7463,7 +7463,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7508,7 +7508,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7545,7 +7545,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7590,7 +7590,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7627,7 +7627,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7672,7 +7672,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7709,7 +7709,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7754,7 +7754,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7791,7 +7791,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7836,7 +7836,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7881,7 +7881,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7918,7 +7918,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7963,7 +7963,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8000,7 +8000,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8037,7 +8037,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8082,7 +8082,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8119,7 +8119,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8164,7 +8164,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8201,7 +8201,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8238,7 +8238,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8283,7 +8283,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8328,7 +8328,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8365,7 +8365,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8410,7 +8410,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8447,7 +8447,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8484,7 +8484,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8521,7 +8521,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8566,7 +8566,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8611,7 +8611,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8656,7 +8656,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/LICENSE",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8693,7 +8693,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/bootstrap/LICENSE",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/bootstrap/LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8738,7 +8738,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8783,7 +8783,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8820,7 +8820,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8865,7 +8865,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8902,7 +8902,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8947,7 +8947,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8984,7 +8984,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9029,7 +9029,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9066,7 +9066,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9111,7 +9111,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9148,7 +9148,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9185,7 +9185,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9230,7 +9230,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9267,7 +9267,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9312,7 +9312,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9349,7 +9349,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery-validation/LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9394,7 +9394,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/dist/jquery.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/dist/jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9439,7 +9439,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/dist/jquery.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/dist/jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9476,7 +9476,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/dist/jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9521,7 +9521,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/dist/jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9566,7 +9566,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/dist/jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9603,7 +9603,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/dist/jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9640,7 +9640,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/LICENSE.txt",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9685,7 +9685,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/wwwroot/lib/jquery/LICENSE.txt",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/wwwroot/lib/jquery/LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9722,7 +9722,7 @@
     },
     {
       "Route": "SashoApp.bundle.scp.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/obj/Debug/net8.0/scopedcss/projectbundle/SashoApp.bundle.scp.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/obj/Debug/net8.0/scopedcss/projectbundle/SashoApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9759,7 +9759,7 @@
     },
     {
       "Route": "SashoApp.styles.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/obj/Debug/net8.0/scopedcss/bundle/SashoApp.styles.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/obj/Debug/net8.0/scopedcss/bundle/SashoApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9796,7 +9796,7 @@
     },
     {
       "Route": "SashoApp.z455vqck6b.bundle.scp.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/obj/Debug/net8.0/scopedcss/projectbundle/SashoApp.bundle.scp.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/obj/Debug/net8.0/scopedcss/projectbundle/SashoApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9841,7 +9841,7 @@
     },
     {
       "Route": "SashoApp.z455vqck6b.styles.css",
-      "AssetFile": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/obj/Debug/net8.0/scopedcss/bundle/SashoApp.styles.css",
+      "AssetFile": "/Users/boqnaleksandrow/Diplomen/SashoApp/obj/Debug/net8.0/scopedcss/bundle/SashoApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

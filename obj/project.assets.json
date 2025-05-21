@@ -8227,11 +8227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/SashoApp.csproj",
+      "projectUniqueName": "/Users/boqnaleksandrow/Diplomen/SashoApp/SashoApp.csproj",
       "projectName": "SashoApp",
-      "projectPath": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/SashoApp.csproj",
+      "projectPath": "/Users/boqnaleksandrow/Diplomen/SashoApp/SashoApp.csproj",
       "packagesPath": "/Users/boqnaleksandrow/.nuget/packages/",
-      "outputPath": "/Users/boqnaleksandrow/Programming/SashoApp/SashoApp/obj/",
+      "outputPath": "/Users/boqnaleksandrow/Diplomen/SashoApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/boqnaleksandrow/.nuget/NuGet/NuGet.Config"
